@@ -1,24 +1,45 @@
-# 👋 Assalomu alaykum — men **Ikromov Bahodir**
-**Junior Data Analyst** | | 📊 Data tahlil, SQL, Python, Power BI
-
-[![GitHub followers](https://img.shields.io/github/followers/<GITHUB_USERNAME>?label=follow&style=social)](https://github.com/<GITHUB_USERNAME>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/<YOUR_LINKEDIN>/)
-[![Telegram](https://img.shields.io/badge/Telegram-@Bahodir_03-blue)](https://t.me/Bahodir_03)
+<h1 align="center">👋 Hi, I'm ikromov Bahodir</h1>
+<h1 align="center">Data Analyst | | 📊 Data tahlil, SQL, Python, Power BI</h1>
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bahodir-ikromov-66351a381/">
+    <img src="https://img.shields.io/badge/LinkedIn-IkromovBahodir-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Bahodir_03">
+    <img src="https://img.shields.io/badge/Telegram-@Bahodir__03-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/S5GYn0y/data-analytics-banner.gif" alt="Data Analyst Banner" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Turning+data+into+insights...;Visualizing+trends+with+Python+%26+Power+BI;Exploring+real-world+datasets+with+curiosity!" alt="Typing SVG" />
+</p>
+
+---
 ## 🔭 Men nima bilan shug'ullanaman
 - Real hayot ma'lumotlarini tozalash, tahlil qilish va vizuallashtirish.
 - Maqsad: **Data Analyst** sifatida ma'lumotdan qaror qabul qilishga yordam beradigan xulosalar chiqarish.
-- Hozir o'rganayotganlar: mashina oʻrganish (asoslar), advanced SQL, Power BI dashboard dizayni.
+- Hozir o'rganayotganlar: Data science, Copmuter vision, NLP.
 
 ---
 
 ## 🛠️ Texnologiyalar va asboblar
 - **Tillar:** Python (Pandas, NumPy), SQL
 - **Vizualizatsiya:** Matplotlib, Seaborn, Power BI
-- **Ma'lumot ishlash:** Excel, CSV, SQL (PostgreSQL yoki MySQL)
-- **Boshqa:** Git, GitHub, Jupyter Notebook
+- **Ma'lumot ishlash:** Excel, CSV, SQL (PostgreSQL, SQL Ser, SQLite)
+- **Boshqa:** Git, GitHub, Jupyter Notebook, Google Colab
 
 ---
 
@@ -40,9 +61,9 @@
 
 ---
 
-## 📂 Repo tuzilmasi (tavsiya)
-Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili),
-Studentlar dataset tahlili: [Studentlar dataset tahlili](https://github.com/Bakhodir03/Students_dataset_tahlil)
+## 📂 Repo tuzilmasi    
+   - Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili)
+   - Studentlar dataset tahlili: [Studentlar dataset tahlili](https://github.com/Bakhodir03/Students_dataset_tahlil)
 
 ---
 
