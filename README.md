@@ -50,6 +50,7 @@
 ---
 
 ## 📂 Repo tuzilmasi (tavsiya)
+--Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili)
 
 ---
 
