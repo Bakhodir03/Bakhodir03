@@ -55,18 +55,6 @@
 
 ## 📫 Bog'lanish
 - Telegram: [@Bahodir_03](https://t.me/Bahodir_03)  
-- Email: `<YOUR_EMAIL>`  
-- GitHub: `https://github.com/<GITHUB_USERNAME>`
-
----
-
-## 📌 GitHub profilini chiroyli qilish uchun tez maslahatlar
-1. **Profile README** yarating (`<GITHUB_USERNAME>/<GITHUB_USERNAME>` repo) — bu profil sahifangizda chiqadi.  
-2. Muhim loyihalarni *Pinned repositories* ga qoʻying.  
-3. Har bir repo uchun 1-2 rasm (screenshot) qoʻshing — vizual taʼsir katta.  
-4. `topics` bilan repolaringizni teglar bilan belgilab qoʻying (masalan: `data-analysis`, `python`, `powerbi`).  
-5. READMEda qisqa **maqsad** va **natija** (what + why + how) bo'lsin — ish beruvchilar uchun muhim.
-
----
-
-🔥 Agar xohlasangiz, men bu READMEni sizning aniq GitHub username va email bilan toʻldirib beraman — yoki sizga profil README (username/username) toʻliq tayyor qilib qoʻyam.  
+- Email: `ikromovbahodir2003@gmail.com`  
+- GitHub: [@Bakhodir03](https://github.com/Bakhodir03)
+ 
