@@ -41,8 +41,8 @@
 ---
 
 ## 📂 Repo tuzilmasi (tavsiya)
-Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili)
-[Studentlar dataset tahlili:](https://github.com/Bakhodir03/Students_dataset_tahlil)
+Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili),
+Studentlar dataset tahlili: [Studentlar dataset tahlili](https://github.com/Bakhodir03/Students_dataset_tahlil)
 
 ---
 
