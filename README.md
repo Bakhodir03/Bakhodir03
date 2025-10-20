@@ -23,8 +23,6 @@
 ---
 
 ## 💼 Loyihalar (misol)
-> Har bir loyihani repo ga joylang va README ichida qoʻshimcha ko'rsatmalar qoldiring.
-
 1. **Student Performance Analysis**  
    - Maqsad: talabalar ma'lumotlaridan muvaffaqiyatni taʼsir qiluvchi omillarni aniqlash.  
    - Texnikalar: Pandas, Matplotlib, SQL.  
@@ -42,15 +40,9 @@
 
 ---
 
-## 🚀 Qanday loyihalar qoʻshish kerak (tez maslahat)
-- Har bir repo uchun: `README.md`, `requirements.txt` (yoki `environment.yml`), va `example_notebook.ipynb`.
-- `README` ichida: maqsad, maʼlumot manbasi, ishlash bosqichlari, natija (rasm yoki dashboard screenshot).
-- Kodni toza, modulga ajrating va `README`da qanday ishga tushirish ko'rsatmasini yozing.
-
----
-
 ## 📂 Repo tuzilmasi (tavsiya)
---Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili)
+Data tahlil: [Uyqusizlik data tahlili](https://github.com/Bakhodir03/Uyqusizlik-data-tahlili)
+[Studentlar dataset tahlili:](https://github.com/Bakhodir03/Students_dataset_tahlil)
 
 ---
 
